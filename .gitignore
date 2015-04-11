@@ -11,26 +11,8 @@
 # comment the following line if you want to have your project file included.
 eagle.epf
 
-# CAM files
-*.$$$
-*.cmp
-*.ly2
-*.l15
-*.sol
-*.plc
-*.stc
-*.sts
-*.crc
-*.crs
+# Texmaker files
+*.aux
+*.synctex.gz
+*.log
 
-*.dri
-*.drl
-*.gpi
-*.pls
-
-*.drd
-*.drd.*
-
-*.info
-
-*.eps
